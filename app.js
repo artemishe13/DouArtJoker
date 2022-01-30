@@ -68,6 +68,6 @@ function pk(pkt) {
             }
         }
     } else {
-        return 0;
+        return 00;
     }
 }
